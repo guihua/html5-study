@@ -16,3 +16,5 @@
     - [HTML5 应用程序缓存](manifest.md)
     - [HTML5 Web Workers](worker.md)
     - [HTML5 服务器发送事件](server-event.md)
+* [HTML5杂谈]
+    - [HTML5 download属性](download.md)
